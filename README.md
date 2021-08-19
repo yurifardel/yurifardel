@@ -3,6 +3,6 @@
 - 🌱 I am currently learning node, reactjs, typescript, javascript, next
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
 "
 </div>
