@@ -1,4 +1,8 @@
 - 👋 Hi, I’m Yuri Regis Nascimento
 - 👀 I'm interested in software development
-- 🌱 I am currently learning node, react, typescript, react native
+- 🌱 I am currently learning node, reactjs, typescript, javascript, next
 
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true/>
+"
+</div>
