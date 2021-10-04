@@ -12,14 +12,9 @@ Passionate about development, always looking for the best.
 
   <img  align="center" target="_blank" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
   <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-    <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
-  <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
-  <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-      <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
   <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 
- <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 
   
   
@@ -27,7 +22,6 @@ Passionate about development, always looking for the best.
   
   
 
-  <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" />
 
  </div>
  
