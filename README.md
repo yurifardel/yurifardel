@@ -1,12 +1,12 @@
 ## Yuri Regis Nascimento
 
 
-<Strong>The evolution of our minds needs to be constant, it makes us better every day </strong>
+<!-- <Strong>The evolution of our minds needs to be constant, it makes us better every day </strong> -->
 <!-- <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=yurifardel&theme=omni&show_icons=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifardel&layout=compact&langs_count=16&theme=omni"/>
 </div> -->
-Passionate about development, always looking for the best. 
+<!-- Passionate about development, always looking for the best.  -->
 
 <div>
 
