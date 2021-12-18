@@ -6,9 +6,9 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=yurifardel&theme=omni&show_icons=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifardel&layout=compact&langs_count=16&theme=omni"/>
 </div> -->
-<!-- Passionate about development, always looking for the best.  -->
+Code and chill. 
 
-<div>
+<!-- <div>
 
   <img  align="center" target="_blank" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
   <img  align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
@@ -23,7 +23,7 @@
   
 
 
- </div>
+ </div> -->
  
 ##
 
