@@ -1,4 +1,4 @@
-## Yuri Regis Nascimento
+<!-- ## Yuri Regis Nascimento -->
 
 
 <!-- <Strong>The evolution of our minds needs to be constant, it makes us better every day </strong> -->
@@ -25,12 +25,12 @@ Code and chill.
 
  </div> -->
  
-##
+<!-- ##
 
 <div>
   <a href="https://www.linkedin.com/in/yurifardel/">
         <img  align="center" height="30" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
+ -->
 
